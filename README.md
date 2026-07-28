@@ -17,3 +17,6 @@ Permet de pousser les modifications es lignes
 
 ## git status
 Permet de connaitre le statut de votre répéertoire et de lister les modifications à traiter
+
+## git log
+Permet de lister les modifications 
