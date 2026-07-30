@@ -31,4 +31,4 @@ modifications dans le re staging
 - Avec l'option -b checkout va créer la branche si elle n'existe pas
 
 ## git pull
-Permet de récupérer les modifications distantes (faites directement en ligne dans GitHub)
+- Permet de récupérer les modifications distantes (faites directement en ligne dans GitHub)
