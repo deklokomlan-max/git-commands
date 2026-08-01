@@ -32,3 +32,8 @@ modifications dans le re staging
 
 ## git pull
 - Permet de récupérer les modifications distantes (faites directement en ligne dans GitHub)
+
+## git rebase 
+- Permet de récupérer la modification dans la branche mère.
+- Les modifications de la branche mère sont placées en dessous de la branche courante
+- Les modifications de la branche courante sont placées au dessus de la branche mère.
