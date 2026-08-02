@@ -36,3 +36,8 @@
 - Permet de récupérer la modification dans la branche mère.
 - Les modifications de la branche mère sont placées en dessous de la branche courante
 - Les modifications de la branche courante sont placées au dessus de la branche mère.
+
+## git merge
+- Permet de fusionner le contenu de deux branches
+- L'ordre des commit n'est pas toujours sauvegardé
+- Pour conserver l'ordre des commit il faut utliser l'option : --no-ff 
