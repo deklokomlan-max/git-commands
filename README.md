@@ -41,3 +41,13 @@
 - Permet de fusionner le contenu de deux branches
 - L'ordre des commit n'est pas toujours sauvegardé
 - Pour conserver l'ordre des commit il faut utliser l'option : --no-ff 
+
+## git reset
+- Permet de supprimer un commit
+- Permet de revenir à un commit défini par son identifiant
+- Attention ! A utiliser avec précaution
+
+## git diff
+- Permet de comparer deux commits
+
+
