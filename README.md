@@ -51,3 +51,7 @@
 - Permet de comparer deux commits
 
 
+## git clone
+- Permet de récupérer les projets existants
+
+
